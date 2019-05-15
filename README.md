@@ -1,8 +1,9 @@
 # Userteam
 ## Tprogger
-tagsCollect - главный файл. Он делает всю работу.
+![alt text](https://pp.userapi.com/c855024/v855024316/401f0/5KqVY1L3XV8.jpg)
 
 ### Использование:
+tagsCollect - главный файл. Он делает всю работу.
 
 ```python
 d = pd.read_csv("data/users_export_onesignal_users_2019-05-11T16_43_12+00_00.csv")
